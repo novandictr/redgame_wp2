@@ -1,4 +1,4 @@
-<h1 align="center">Selamat datang di GameINA! 👋</h1>
+<!-- <h1 align="center">Selamat datang di GameINA! 👋</h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/46257169/85118696-ddfeaa80-b24a-11ea-8a9e-0cdb671fb755.png" alt="GameINA"/>
@@ -6,7 +6,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/issues/Syauqizaidan/Learnify?style=flat-square">
-<img src="https://img.shields.io/github/stars/Syauqizaidan/Learnify?style=flat-square"> 
+<img src="https://img.shields.io/github/stars/Syauqizaidan/Learnify?style=flat-square">
 <img src="https://img.shields.io/github/forks/Syauqizaidan/Learnify?style=flat-square">
 <img src="https://img.shields.io/github/license/Syauqizaidan/Learnify?style=flat-square">
 <img src="http://hits.dwyl.com/syauqizaidan/https://githubcom/Syauqizaidan/Learnify.svg">
@@ -41,10 +41,10 @@ Saya buat Open Souce karena sebenarnya project ini belum sepenuhnya jadi. Masih 
 ------------
 
  ### 👤 Default Account for testing
-	
+
 **Admin Default Account**
 - ../gameina/welcome/admin
-- Email : admin@gmail.com 
+- Email : admin@gmail.com
 - Password : 123admin123
 
 **User Default Account**
@@ -58,7 +58,7 @@ Saya buat Open Souce karena sebenarnya project ini belum sepenuhnya jadi. Masih 
 
 ------------
 
-### 🧐 Prasyarat yang diperlukan 
+### 🧐 Prasyarat yang diperlukan
 - Versi PHP7 ke atas dikarenakan saya memakai function dari PHP7
 - Web Browser ( Chrome, Firefox, Safari & Opera )
 - Internet ( Karena saya memakai CDN Bootstrap )
@@ -90,4 +90,4 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ------------
 
-**Made with ❤️ by SYAUQIZAIDAN KHAIRAN KHALAF**
+**Made with ❤️ by SYAUQIZAIDAN KHAIRAN KHALAF** -->
